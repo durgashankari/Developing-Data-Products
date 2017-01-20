@@ -7,7 +7,7 @@ shinyUI(fluidPage(
   sidebarPanel(
     wellPanel(
       helpText(   a("Click Here to read the documentation",
-                    href="https://github.com/leandrowar/DevelopingDataProducts/blob/master/README.md")
+                    href="https://github.com/durgashankari/Developing-Data-Products/blob/master/README.md")
       )
     ),
     
